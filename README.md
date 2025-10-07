@@ -8,7 +8,7 @@ The project is organized into four main deliverables ("livrables"):
 
 -   **`/livrable 1`**: Introduction to the Grid World environment. Contains a basic implementation of the environment and a simple agent that performs a random walk.
 -   **`/livrable 2`**: Implementation of several foundational RL algorithms. This includes model-based agents (Value Iteration, Policy Iteration) and model-free agents (Monte Carlo, Q-Learning) that can solve the Grid World puzzle.
--   **`/livrable 3`**: Further exploration of Q-Learning with a modified agent, likely for performance comparison or parameter tuning.
+-   **`/livrable 3`**: Further exploration of Q-Learning with a modified agent.
 -   **`/livrable 4`**: A comprehensive analysis and visualization suite. This part focuses on generating comparative performance graphs and creating animated GIFs of the trained agent's behavior.
 
 ## Livrable 4: Visualizations and Comparative Analysis

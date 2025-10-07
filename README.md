@@ -36,7 +36,7 @@ This experiment trains a Q-Learning agent on a 5x10 grid with a line of obstacle
 **Final Policy Learned by the Agent:**
 The arrows show the optimal action the agent learned for each state.
 
-![Final Policy](livrable%204/Results/single_run_policy.png)
+![Final Policy](livrable%4/Results/single_run_policy.png)
 
 **Trained Agent Performance (Animation):**
 This GIF shows the trained agent efficiently navigating the environment to reach the highest-reward goal.
